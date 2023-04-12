@@ -22,7 +22,7 @@
     ],
     "preferredEditor": "tsprj",
     "extension": {
-        "namespace": "ml",
+        "namespace": "hi",
         "label": "Train Model",
         "group": "Services",
         "url": "https://www.google.co.uk/",
