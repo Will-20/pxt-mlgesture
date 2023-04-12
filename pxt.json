@@ -25,6 +25,6 @@
         "namespace": "hi",
         "label": "Train Model",
         "group": "Services",
-        "url": "https://will-20.github.io/pxt-mlgesture/"
+        "url": "https://microsoft.github.io/ml4f/"
     }
 }
