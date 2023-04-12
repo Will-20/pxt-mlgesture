@@ -20,5 +20,12 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "extension": {
+        "namespace": "ml",
+        "label": "Train Model",
+        "group": "Services",
+        "url": "https://www.google.co.uk/",
+        "localUrl": "http://localhost:3232/pxt"
+    }
 }
