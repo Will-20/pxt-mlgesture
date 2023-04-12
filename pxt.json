@@ -25,7 +25,6 @@
         "namespace": "hi",
         "label": "Train Model",
         "group": "Services",
-        "url": "https://www.google.co.uk/",
-        "localUrl": "http://localhost:3232/pxt"
+        "url": "https://will-20.github.io/pxt-mlgesture/"
     }
 }
